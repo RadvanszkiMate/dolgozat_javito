@@ -1,0 +1,26 @@
+body{
+    background-color: green;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color: aqua;
+}
+li{
+    font-size: 21px;
+    color: white;
+}
+h2{
+    color: white;
+}
+img{
+    border-radius: 21px;
+    width: 450px;
+    height: 350px;
+}
+#hiuz{
+    float: right;
+}
